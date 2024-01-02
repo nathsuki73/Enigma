@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CVALWiON21FsF2czoJIDdvc6jhyMNnlf2GM1ScteSMXR1jIlwr02EU2I6MeKm5M0ML4Vxk0CrRe5Wf18C2e/+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\naths\\Desktop\\LSPU - COMPSCI\\C#\\Personal Projects\\Enigma\\Enigma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naths\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\naths\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\naths\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\naths\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

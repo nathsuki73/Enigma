@@ -1,0 +1,16 @@
+C:\Users\naths\Desktop\Enigma\Enigma.exe
+C:\Users\naths\Desktop\Enigma\Enigma.deps.json
+C:\Users\naths\Desktop\Enigma\Enigma.runtimeconfig.json
+C:\Users\naths\Desktop\Enigma\Enigma.dll
+C:\Users\naths\Desktop\Enigma\Enigma.pdb
+C:\Users\naths\Desktop\LSPU - COMPSCI\C#\Personal Projects\Enigma\obj\Release\net6.0\Enigma.csproj.AssemblyReference.cache
+C:\Users\naths\Desktop\LSPU - COMPSCI\C#\Personal Projects\Enigma\obj\Release\net6.0\Enigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naths\Desktop\LSPU - COMPSCI\C#\Personal Projects\Enigma\obj\Release\net6.0\Enigma.AssemblyInfoInputs.cache
+C:\Users\naths\Desktop\LSPU - COMPSCI\C#\Personal Projects\Enigma\obj\Release\net6.0\Enigma.AssemblyInfo.cs
+C:\Users\naths\Desktop\LSPU - COMPSCI\C#\Personal Projects\Enigma\obj\Release\net6.0\Enigma.csproj.CoreCompileInputs.cache
+C:\Users\naths\Desktop\LSPU - COMPSCI\C#\Personal Projects\Enigma\obj\Release\net6.0\Enigma.csproj.CopyComplete
+C:\Users\naths\Desktop\LSPU - COMPSCI\C#\Personal Projects\Enigma\obj\Release\net6.0\Enigma.dll
+C:\Users\naths\Desktop\LSPU - COMPSCI\C#\Personal Projects\Enigma\obj\Release\net6.0\refint\Enigma.dll
+C:\Users\naths\Desktop\LSPU - COMPSCI\C#\Personal Projects\Enigma\obj\Release\net6.0\Enigma.pdb
+C:\Users\naths\Desktop\LSPU - COMPSCI\C#\Personal Projects\Enigma\obj\Release\net6.0\Enigma.genruntimeconfig.cache
+C:\Users\naths\Desktop\LSPU - COMPSCI\C#\Personal Projects\Enigma\obj\Release\net6.0\ref\Enigma.dll
