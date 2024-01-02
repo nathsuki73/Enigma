@@ -6,6 +6,8 @@ This Enigma Console Program, developed using Visual Studio, simulates the operat
 ## Features
 - Simulates the Enigma machine's rotor settings and plugboard configurations.
 - Accepts user input for messages and settings to perform encryption/decryption.
+- Provides five available rotors.
+- Provides a way to save recent messages and enigma settings in history.
 - Provides a basic yet interactive experience of encoding and decoding messages.
 
 ## Getting Started
