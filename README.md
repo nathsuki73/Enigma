@@ -12,10 +12,10 @@ This Enigma Console Program, developed using Visual Studio, simulates the operat
 
 ## Getting Started
 1. **Clone Repository:** Clone this repository to your local machine.
-2. **Open in Visual Studio:** Open the solution file (`EnigmaProgram.sln`) in Visual Studio.
-3. **Build the Program:** Build the solution to compile the Enigma Console Program.
-4. **Run the Program:** Start the program in the console to interact with the Enigma machine simulation.
-5. **Follow On-Screen Instructions:** Input your message and configure the Enigma settings to see encryption/decryption in action.
+2. **Open in Visual Studio:** Open the solution file (`Enigma.sln`) in Visual Studio.
+4. **Build the Program:** Build the solution to compile the Enigma Console Program.
+5. **Run the Program:** Start the program in the console to interact with the Enigma machine simulation.
+6. **Follow On-Screen Instructions:** Input your message and configure the Enigma settings to see encryption/decryption in action.
 
 ## Requirements
 - Visual Studio (or compatible C# development environment)
