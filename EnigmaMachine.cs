@@ -142,7 +142,7 @@ class Enigma
 
                     if (confirmKey.Key == ConsoleKey.UpArrow || confirmKey.Key == ConsoleKey.DownArrow)
                     {
-                        CurrentSelectedOpt = Chooose(confirmKey, CurrentSelectedOpt, 3);
+                        CurrentSelectedOpt = Choose(confirmKey, CurrentSelectedOpt, 3);
                         continue;
                     }
                     // Rotor Order ============================================================
@@ -237,7 +237,7 @@ class Enigma
                     
                     if (confirmKey.Key == ConsoleKey.UpArrow || confirmKey.Key == ConsoleKey.DownArrow)
                     {
-                        CurrentSelectedOpt = Chooose(confirmKey, CurrentSelectedOpt, 2);
+                        CurrentSelectedOpt = Choose(confirmKey, CurrentSelectedOpt, 2);
                         continue;
                     }
                     if (confirmKey.KeyChar == 'Y' || confirmKey.KeyChar == 'y' || (confirmKey.Key == ConsoleKey.Enter && CurrentSelectedOpt == 0)) {
@@ -647,7 +647,7 @@ class Enigma
 
             if (confirmKey.Key == ConsoleKey.UpArrow || confirmKey.Key == ConsoleKey.DownArrow)
             {
-                selectedOpt = Chooose(confirmKey, selectedOpt, 2);
+                selectedOpt = Choose(confirmKey, selectedOpt, 2);
                 continue;
             }
             if (confirmKey.Key == ConsoleKey.Enter && selectedOpt == 0)
@@ -1013,7 +1013,7 @@ class Enigma
 
 
 
-    static int Chooose(ConsoleKeyInfo key, int current, int total) {
+    static int Choose(ConsoleKeyInfo key, int current, int total) {
         int step = (key.Key == ConsoleKey.UpArrow) ? -1 : 1;
         int n = (current + step + total) % total;
         return n;
